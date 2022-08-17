@@ -1,0 +1,41 @@
+
+.Foto_perfil{
+            width: 100px;
+            height: 146.37px;
+            left: 670px;
+            top: 20.91px;
+            }
+
+header {text-align:center}
+
+
+h1,h2 {letter-spacing:8px;
+    background-color:#C4C4C4;
+    color:#005677
+}
+
+.subtitulos_negr{font-family:'Times New Roman';
+    font-style:italic;
+    font-weight:bold
+}
+
+.subtitulos_2{font-family:'Times New Roman';
+       font-weight:bold
+}
+
+.tabulacion{text-indent: 80px;}
+.tabulacion_1{object-position: 70px;}
+
+
+
+
+.footer_class {background-color: #005677;}
+
+footer {text-align:center;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    color: #FFFFFF
+    }
